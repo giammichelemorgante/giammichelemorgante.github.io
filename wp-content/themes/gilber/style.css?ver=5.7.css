@@ -1,15 +1,4 @@
-/*!
-Theme Name: Gilber | Shared by WPTry.org
-Theme URI: http://paul-themes.com/wordpress/gilber/
-Author: VLThemes
-Author URI: https://themeforest.net/user/vlthemes
-Description: Gilber is a carefully crafted flexible, powerful and high performance CV/Resume WordPress Theme for personal and corporate use. We designed it by focusing on functionality and ease of use for both sides: the Visitor and the WordPress Admin.
-Version: 1.0.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: gilber
-Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
-*/
+
 
 html {
 	overflow-y: scroll;
@@ -22,7 +11,6 @@ body {
 	color: rgba(255, 255, 255, 0.6);
 }
 
-/* WordPress API Elements */
 
 .wp-caption {
 	margin: 30px 0;
